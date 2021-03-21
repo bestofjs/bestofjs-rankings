@@ -1,0 +1,16 @@
+{
+  "headers": [
+    {
+      "source": "**/*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    { "source": "/monthly/latest", "destination": "/monthly/2021-02" }
+  ]
+}
