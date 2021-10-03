@@ -105,9 +105,9 @@
       "icon": "vite.svg"
     },
     {
-      "name": "Material UI",
+      "name": "MUI",
       "full_name": "mui-org/material-ui",
-      "description": "MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.",
+      "description": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
       "stars": 71885,
       "delta": 1158,
       "relativeGrowth": 0.0164,
