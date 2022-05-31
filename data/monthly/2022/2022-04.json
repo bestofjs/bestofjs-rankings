@@ -2,7 +2,7 @@
   "year": 2022,
   "month": 4,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "Next.js",
