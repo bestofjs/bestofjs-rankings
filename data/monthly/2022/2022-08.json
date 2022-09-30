@@ -2,7 +2,7 @@
   "year": 2022,
   "month": 8,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "Astro",
