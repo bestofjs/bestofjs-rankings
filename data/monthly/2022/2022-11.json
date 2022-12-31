@@ -2,10 +2,10 @@
   "year": 2022,
   "month": 11,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
-      "name": "Create T3 App",
+      "name": "T3 Stack",
       "full_name": "t3-oss/create-t3-app",
       "description": "The best way to start a full-stack, typesafe Next.js app",
       "stars": 11047,
