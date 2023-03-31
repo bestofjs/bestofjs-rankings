@@ -2,7 +2,7 @@
   "year": 2023,
   "month": 2,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "core-js",
