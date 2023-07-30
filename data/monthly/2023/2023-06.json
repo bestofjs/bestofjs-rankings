@@ -6,7 +6,7 @@
   "trending": [
     {
       "name": "shadcn/ui",
-      "full_name": "shadcn/ui",
+      "full_name": "shadcn-ui/ui",
       "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
       "stars": 22831,
       "delta": 3759,
