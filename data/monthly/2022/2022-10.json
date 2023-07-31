@@ -1241,7 +1241,7 @@
     },
     {
       "name": "Kysely",
-      "full_name": "koskimas/kysely",
+      "full_name": "kysely-org/kysely",
       "description": "A type-safe typescript SQL query builder",
       "stars": 1913,
       "delta": 372,
