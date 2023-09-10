@@ -419,7 +419,7 @@
     },
     {
       "name": "LangChain.js",
-      "full_name": "hwchase17/langchainjs",
+      "full_name": "langchain-ai/langchainjs",
       "description": " Building applications with LLMs through composability",
       "stars": 7410,
       "delta": 734,
@@ -582,7 +582,7 @@
     },
     {
       "name": "Vercel AI SDK",
-      "full_name": "vercel-labs/ai",
+      "full_name": "vercel/ai",
       "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
       "stars": 3828,
       "delta": 590,

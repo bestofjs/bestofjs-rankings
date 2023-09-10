@@ -596,7 +596,7 @@
     },
     {
       "name": "LangChain.js",
-      "full_name": "hwchase17/langchainjs",
+      "full_name": "langchain-ai/langchainjs",
       "description": " Building applications with LLMs through composability",
       "stars": 7962,
       "delta": 552,

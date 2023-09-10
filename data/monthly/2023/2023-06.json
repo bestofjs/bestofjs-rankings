@@ -468,7 +468,7 @@
     },
     {
       "name": "Vercel AI SDK",
-      "full_name": "vercel-labs/ai",
+      "full_name": "vercel/ai",
       "description": "Build AI-powered applications with React, Svelte, and Vue",
       "stars": 3238,
       "delta": 698,
