@@ -2,7 +2,7 @@
   "year": 2024,
   "month": 8,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "Affine",
@@ -451,17 +451,6 @@
       "tags": ["3d"],
       "owner_id": "97088",
       "created_at": "2010-03-23T18:58:01.000Z"
-    },
-    {
-      "name": "Flutter",
-      "full_name": "flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-      "stars": 163972,
-      "delta": 538,
-      "relativeGrowth": 0.0033,
-      "tags": ["mobile"],
-      "owner_id": "14101776",
-      "created_at": "2015-03-06T22:54:58.000Z"
     },
     {
       "name": "Electron",
