@@ -7,7 +7,7 @@
     {
       "name": "shadcn/ui",
       "full_name": "shadcn-ui/ui",
-      "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+      "description": "Beautifully designed components that you can copy and paste into your apps....",
       "stars": 70601,
       "delta": 3044,
       "relativeGrowth": 0.0451,
@@ -40,7 +40,7 @@
     {
       "name": "n8n",
       "full_name": "n8n-io/n8n",
-      "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+      "description": "Free and source-available fair-code licensed workflow automation tool. Easi...",
       "stars": 46401,
       "delta": 1739,
       "relativeGrowth": 0.0389,
@@ -62,7 +62,7 @@
     {
       "name": "Affine",
       "full_name": "toeverything/AFFiNE",
-      "description": "A next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use - a free replacement for Notion & Miro",
+      "description": "A next-gen knowledge base that brings planning, sorting and creating all to...",
       "stars": 40899,
       "delta": 1427,
       "relativeGrowth": 0.0362,
@@ -71,20 +71,9 @@
       "created_at": "2022-07-31T18:45:21.000Z"
     },
     {
-      "name": "Svelte Flow",
-      "full_name": "xyflow/xyflow",
-      "description": "A customizable Svelte component for building node-based editors and interactive diagrams by the creators of React Flow",
-      "stars": 24954,
-      "delta": 1167,
-      "relativeGrowth": 0.0491,
-      "tags": ["diagram", "svelte", "graph"],
-      "owner_id": "7106853",
-      "created_at": "2019-07-15T14:47:30.000Z"
-    },
-    {
       "name": "React Flow",
       "full_name": "xyflow/xyflow",
-      "description": "A customizable React component for building node-based editors and interactive diagrams",
+      "description": "A customizable React component for building node-based editors and interact...",
       "stars": 24954,
       "delta": 1167,
       "relativeGrowth": 0.0491,
@@ -95,7 +84,7 @@
     {
       "name": "Swapy",
       "full_name": "TahaSh/swapy",
-      "description": "A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/",
+      "description": "A framework-agnostic tool that converts any layout into a drag-to-swap one ...",
       "stars": 5459,
       "delta": 1151,
       "relativeGrowth": 0.2672,
@@ -139,7 +128,7 @@
     {
       "name": "Bruno",
       "full_name": "usebruno/bruno",
-      "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+      "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to ...",
       "stars": 25717,
       "delta": 1042,
       "relativeGrowth": 0.0422,
@@ -150,7 +139,7 @@
     {
       "name": "Tauri",
       "full_name": "tauri-apps/tauri",
-      "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+      "description": "Build smaller, faster, and more secure desktop and mobile applications with...",
       "stars": 82379,
       "delta": 986,
       "relativeGrowth": 0.0121,
@@ -183,7 +172,7 @@
     {
       "name": "Docmost",
       "full_name": "docmost/docmost",
-      "description": "An open-source collaborative wiki and documentation software, alternative to Confluence and Notion.",
+      "description": "An open-source collaborative wiki and documentation software, alternative t...",
       "stars": 5005,
       "delta": 914,
       "relativeGrowth": 0.2234,
@@ -213,7 +202,7 @@
     {
       "name": "Encore",
       "full_name": "encoredev/encore",
-      "description": "Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+      "description": "Development Platform for building robust type-safe distributed systems with...",
       "stars": 6869,
       "delta": 880,
       "relativeGrowth": 0.1469,
@@ -235,7 +224,7 @@
     {
       "name": "Playwright",
       "full_name": "microsoft/playwright",
-      "description": "A framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+      "description": "A framework for Web Testing and Automation. It allows testing Chromium, Fir...",
       "stars": 65985,
       "delta": 790,
       "relativeGrowth": 0.0121,
@@ -246,7 +235,7 @@
     {
       "name": "JSON Crack",
       "full_name": "AykutSarac/jsoncrack.com",
-      "description": "Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+      "description": "Innovative and open-source visualization application that transforms variou...",
       "stars": 30550,
       "delta": 753,
       "relativeGrowth": 0.0253,
@@ -257,7 +246,7 @@
     {
       "name": "Biome",
       "full_name": "biomejs/biome",
-      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain ...",
       "stars": 14485,
       "delta": 730,
       "relativeGrowth": 0.0531,
@@ -268,7 +257,7 @@
     {
       "name": "Remix",
       "full_name": "remix-run/remix",
-      "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+      "description": "Build Better Websites. Create modern, resilient user experiences with web f...",
       "stars": 29481,
       "delta": 711,
       "relativeGrowth": 0.0247,
@@ -279,7 +268,7 @@
     {
       "name": "Mermaid",
       "full_name": "mermaid-js/mermaid",
-      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+      "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a ...",
       "stars": 71064,
       "delta": 709,
       "relativeGrowth": 0.0101,
@@ -290,7 +279,7 @@
     {
       "name": "Expo",
       "full_name": "expo/expo",
-      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "description": "An open-source framework for making universal native apps with React. Expo ...",
       "stars": 33115,
       "delta": 700,
       "relativeGrowth": 0.0216,
@@ -301,7 +290,7 @@
     {
       "name": "nvm",
       "full_name": "nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple activ...",
       "stars": 79247,
       "delta": 698,
       "relativeGrowth": 0.0089,
@@ -323,7 +312,7 @@
     {
       "name": "Drizzle ORM",
       "full_name": "drizzle-team/drizzle-orm",
-      "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too",
+      "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on t...",
       "stars": 23517,
       "delta": 672,
       "relativeGrowth": 0.0294,
@@ -345,7 +334,7 @@
     {
       "name": "Scalar",
       "full_name": "scalar/scalar",
-      "description": "Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 1st-Class OpenAPI/Swagger Support",
+      "description": "Beautiful API references from Swagger/OpenAPI file",
       "stars": 6237,
       "delta": 669,
       "relativeGrowth": 0.1202,
@@ -422,7 +411,7 @@
     {
       "name": "Payload",
       "full_name": "payloadcms/payload",
-      "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+      "description": "Payload is the open-source, fullstack Next.js framework, giving you instant...",
       "stars": 23573,
       "delta": 626,
       "relativeGrowth": 0.0273,
@@ -444,7 +433,7 @@
     {
       "name": "Astro",
       "full_name": "withastro/astro",
-      "description": "A website build tool for the modern web — powerful developer experience meets lightweight output.",
+      "description": "A website build tool for the modern web — powerful developer experience mee...",
       "stars": 45857,
       "delta": 596,
       "relativeGrowth": 0.0132,
@@ -455,7 +444,7 @@
     {
       "name": "Bun",
       "full_name": "oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manag...",
       "stars": 73456,
       "delta": 589,
       "relativeGrowth": 0.0081,
@@ -466,7 +455,7 @@
     {
       "name": "Refine",
       "full_name": "refinedev/refine",
-      "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+      "description": "A React Framework for building  internal tools, admin panels, dashboards & ...",
       "stars": 27706,
       "delta": 576,
       "relativeGrowth": 0.0212,
@@ -510,7 +499,7 @@
     {
       "name": "StatiCrypt",
       "full_name": "robinmoisson/staticrypt",
-      "description": "Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.",
+      "description": "Password protect a static HTML page, decrypted in-browser in JS with no dep...",
       "stars": 6782,
       "delta": 565,
       "relativeGrowth": 0.0909,
@@ -521,7 +510,7 @@
     {
       "name": "Outline",
       "full_name": "outline/outline",
-      "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+      "description": "The fastest knowledge base for growing teams. Beautiful, realtime collabora...",
       "stars": 27555,
       "delta": 552,
       "relativeGrowth": 0.0204,
@@ -598,7 +587,7 @@
     {
       "name": "Vue.js",
       "full_name": "vuejs/core",
-      "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "description": "A progressive, incrementally-adoptable JavaScript framework for building UI...",
       "stars": 46935,
       "delta": 510,
       "relativeGrowth": 0.011,
@@ -609,7 +598,7 @@
     {
       "name": "Strapi",
       "full_name": "strapi/strapi",
-      "description": "The leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+      "description": "The leading open-source headless CMS. It’s 100% JavaScript, fully customiza...",
       "stars": 63064,
       "delta": 504,
       "relativeGrowth": 0.0081,
@@ -620,7 +609,7 @@
     {
       "name": "Nest",
       "full_name": "nestjs/nest",
-      "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript",
+      "description": "A progressive Node.js framework for building efficient, scalable, and enter...",
       "stars": 67036,
       "delta": 490,
       "relativeGrowth": 0.0074,
@@ -631,7 +620,7 @@
     {
       "name": "Lexical",
       "full_name": "facebook/lexical",
-      "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+      "description": "Lexical is an extensible text editor framework that provides excellent reli...",
       "stars": 19366,
       "delta": 476,
       "relativeGrowth": 0.0252,
@@ -674,7 +663,7 @@
     },
     {
       "name": "shadcn-vue",
-      "full_name": "radix-vue/shadcn-vue",
+      "full_name": "unovue/shadcn-vue",
       "description": "Vue port of shadcn-ui",
       "stars": 4558,
       "delta": 449,
@@ -697,7 +686,7 @@
     {
       "name": "Bootstrap",
       "full_name": "twbs/bootstrap",
-      "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+      "description": "The most popular HTML, CSS, and JavaScript framework for developing respons...",
       "stars": 170316,
       "delta": 428,
       "relativeGrowth": 0.0025,
@@ -708,7 +697,7 @@
     {
       "name": "Crawlee",
       "full_name": "apify/crawlee",
-      "description": "The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.",
+      "description": "The scalable web scraping and crawling library for JavaScript/Node.js. Enab...",
       "stars": 15178,
       "delta": 427,
       "relativeGrowth": 0.0289,
@@ -752,7 +741,7 @@
     {
       "name": "TanStack Query",
       "full_name": "TanStack/query",
-      "description": "Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+      "description": "Powerful asynchronous state management, server-state utilities and data fet...",
       "stars": 41907,
       "delta": 399,
       "relativeGrowth": 0.0096,
@@ -763,7 +752,7 @@
     {
       "name": "Material UI",
       "full_name": "mui/material-ui",
-      "description": " A robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster",
+      "description": " A robust, customizable, and accessible library of foundational and advance...",
       "stars": 93502,
       "delta": 394,
       "relativeGrowth": 0.0042,
@@ -785,7 +774,7 @@
     {
       "name": "Driver.js",
       "full_name": "kamranahmedse/driver.js",
-      "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page",
+      "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive user's fo...",
       "stars": 22618,
       "delta": 382,
       "relativeGrowth": 0.0172,
@@ -796,7 +785,7 @@
     {
       "name": "Mark Text",
       "full_name": "marktext/marktext",
-      "description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+      "description": "A simple and elegant markdown editor, available for Linux, macOS and Window...",
       "stars": 46607,
       "delta": 380,
       "relativeGrowth": 0.0082,
@@ -840,7 +829,7 @@
     {
       "name": "Prisma",
       "full_name": "prisma/prisma",
-      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, ...",
       "stars": 39074,
       "delta": 369,
       "relativeGrowth": 0.0095,
@@ -880,7 +869,7 @@
     {
       "name": "Vaul",
       "full_name": "emilkowalski/vaul",
-      "description": "An unstyled drawer component for React.",
+      "description": "A drawer component for React.",
       "stars": 5988,
       "delta": 362,
       "relativeGrowth": 0.0643,
@@ -902,7 +891,7 @@
     {
       "name": "GrapeJS",
       "full_name": "GrapesJS/grapesjs",
-      "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+      "description": "Free and Open source Web Builder Framework. Next generation tool for buildi...",
       "stars": 22298,
       "delta": 359,
       "relativeGrowth": 0.0164,
@@ -913,7 +902,7 @@
     {
       "name": "Lucide",
       "full_name": "lucide-icons/lucide",
-      "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+      "description": "Beautiful & consistent icon toolkit made by the community. Open-source proj...",
       "stars": 10509,
       "delta": 356,
       "relativeGrowth": 0.0351,
@@ -990,7 +979,7 @@
     {
       "name": "Next-js-Boilerplate",
       "full_name": "ixartz/Next-js-Boilerplate",
-      "description": "Boilerplate and Starter for Next.js 13+ with App Router and Page Router support, Tailwind CSS 3.3 and TypeScript",
+      "description": "Boilerplate and Starter for Next.js 13+ with App Router and Page Router sup...",
       "stars": 8931,
       "delta": 336,
       "relativeGrowth": 0.0391,
@@ -1001,7 +990,7 @@
     {
       "name": "Nextra",
       "full_name": "shuding/nextra",
-      "description": "Simple, powerful and flexible site generation framework with everything you love from Next.js.",
+      "description": "Simple, powerful and flexible site generation framework with everything you...",
       "stars": 11556,
       "delta": 335,
       "relativeGrowth": 0.0299,
@@ -1128,13 +1117,24 @@
     {
       "name": "Lucia-Auth",
       "full_name": "lucia-auth/lucia",
-      "description": "A simple and flexible user and session management library that provides an abstraction layer between your app and your database.",
+      "description": "A simple and flexible user and session management library that provides an ...",
       "stars": 9163,
       "delta": 300,
       "relativeGrowth": 0.0338,
       "tags": ["auth", "express", "svelte", "nextjs", "astro"],
       "owner_id": "124423533",
       "created_at": "2022-07-18T14:53:24.000Z"
+    },
+    {
+      "name": "ts-pattern",
+      "full_name": "gvergnaud/ts-pattern",
+      "description": "The exhaustive Pattern Matching library for TypeScript, with smart type inf...",
+      "stars": 11917,
+      "delta": 298,
+      "relativeGrowth": 0.0256,
+      "tags": ["fp"],
+      "owner_id": "9265418",
+      "created_at": "2020-05-24T16:41:02.000Z"
     }
   ],
   "byRelativeGrowth": [
@@ -1162,8 +1162,8 @@
     },
     {
       "name": "FormBuilder",
-      "full_name": "AlandSleman/FormBuilder",
-      "description": "UI based codegen tool to easily create Beautiful and Type safe @shadcn/ui forms.",
+      "full_name": "cryptXBSA/FormBuilder",
+      "description": "UI based codegen tool to easily create Beautiful and Type safe @shadcn/ui f...",
       "stars": 297,
       "delta": 65,
       "relativeGrowth": 0.2802,
@@ -1174,7 +1174,7 @@
     {
       "name": "Swapy",
       "full_name": "TahaSh/swapy",
-      "description": "A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/",
+      "description": "A framework-agnostic tool that converts any layout into a drag-to-swap one ...",
       "stars": 5459,
       "delta": 1151,
       "relativeGrowth": 0.2672,
@@ -1185,7 +1185,7 @@
     {
       "name": "LogTape",
       "full_name": "dahlia/logtape",
-      "description": "Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions",
+      "description": "Simple logging library with zero dependencies for Deno, Node.js, Bun, brows...",
       "stars": 472,
       "delta": 99,
       "relativeGrowth": 0.2654,
@@ -1196,7 +1196,7 @@
     {
       "name": "Eldora UI",
       "full_name": "karthikmudunuri/eldoraui",
-      "description": "Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates.",
+      "description": "Eldora UI is a collection of re-usable components that you can copy and pas...",
       "stars": 1071,
       "delta": 207,
       "relativeGrowth": 0.2396,
@@ -1207,7 +1207,7 @@
     {
       "name": "Docmost",
       "full_name": "docmost/docmost",
-      "description": "An open-source collaborative wiki and documentation software, alternative to Confluence and Notion.",
+      "description": "An open-source collaborative wiki and documentation software, alternative t...",
       "stars": 5005,
       "delta": 914,
       "relativeGrowth": 0.2234,
@@ -1262,7 +1262,7 @@
     {
       "name": "Schedule-X",
       "full_name": "schedule-x/schedule-x",
-      "description": "JavaScript event calendar. Modern alternative to fullcalendar and react-big-calendar.",
+      "description": "JavaScript event calendar. Modern alternative to fullcalendar and react-big...",
       "stars": 1157,
       "delta": 166,
       "relativeGrowth": 0.1675,
@@ -1273,7 +1273,7 @@
     {
       "name": "Maskito",
       "full_name": "taiga-family/maskito",
-      "description": "Collection of libraries to create an input mask which ensures that user types value according to predefined format.",
+      "description": "Collection of libraries to create an input mask which ensures that user typ...",
       "stars": 1362,
       "delta": 192,
       "relativeGrowth": 0.1641,
@@ -1295,7 +1295,7 @@
     {
       "name": "SignalDB",
       "full_name": "maxnowack/signaldb",
-      "description": "SignalDB is a local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity across multiple frameworks. It integrates easily with libraries like Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.",
+      "description": "SignalDB is a local JavaScript database with a MongoDB-like interface and T...",
       "stars": 270,
       "delta": 35,
       "relativeGrowth": 0.1489,
@@ -1306,7 +1306,7 @@
     {
       "name": "Encore",
       "full_name": "encoredev/encore",
-      "description": "Development Platform for building robust type-safe distributed systems with declarative infrastructure",
+      "description": "Development Platform for building robust type-safe distributed systems with...",
       "stars": 6869,
       "delta": 880,
       "relativeGrowth": 0.1469,
@@ -1350,7 +1350,7 @@
     {
       "name": "JsonTree.js",
       "full_name": "williamtroup/JsonTree.js",
-      "description": "A lightweight JavaScript library that generates customizable tree views to better visualize JSON data.",
+      "description": "A lightweight JavaScript library that generates customizable tree views to ...",
       "stars": 246,
       "delta": 28,
       "relativeGrowth": 0.1284,
@@ -1361,7 +1361,7 @@
     {
       "name": "vue-mess-detector",
       "full_name": "rrd108/vue-mess-detector",
-      "description": "A static code analysis tool for detecting code smells and best practice violations in Vue.js and Nuxt.js projects",
+      "description": "A static code analysis tool for detecting code smells and best practice vio...",
       "stars": 180,
       "delta": 20,
       "relativeGrowth": 0.125,
@@ -1383,7 +1383,7 @@
     {
       "name": "Scalar",
       "full_name": "scalar/scalar",
-      "description": "Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 1st-Class OpenAPI/Swagger Support",
+      "description": "Beautiful API references from Swagger/OpenAPI file",
       "stars": 6237,
       "delta": 669,
       "relativeGrowth": 0.1202,
@@ -1405,7 +1405,7 @@
     {
       "name": "Onborda",
       "full_name": "uixmat/onborda",
-      "description": "An onboarding wizard flow / product tour for Next.js animated by framer motion",
+      "description": "An onboarding wizard flow / product tour for Next.js animated by framer mot...",
       "stars": 751,
       "delta": 80,
       "relativeGrowth": 0.1192,
@@ -1416,7 +1416,7 @@
     {
       "name": "RN Primitives",
       "full_name": "roninoss/rn-primitives",
-      "description": "Style-agnostic, accessible React Native components for iOS, Android, and Web",
+      "description": "Style-agnostic, accessible React Native components for iOS, Android, and We...",
       "stars": 364,
       "delta": 38,
       "relativeGrowth": 0.1166,
@@ -1459,7 +1459,7 @@
     },
     {
       "name": "shadcn-vue",
-      "full_name": "radix-vue/shadcn-vue",
+      "full_name": "unovue/shadcn-vue",
       "description": "Vue port of shadcn-ui",
       "stars": 4558,
       "delta": 449,
@@ -1482,7 +1482,7 @@
     {
       "name": "CASE",
       "full_name": "mnfst/manifest",
-      "description": "Effortless backends",
+      "description": "A Backend so simple that it fits in a YAML file",
       "stars": 576,
       "delta": 55,
       "relativeGrowth": 0.1056,
@@ -1493,7 +1493,7 @@
     {
       "name": "Amplify UI",
       "full_name": "aws-amplify/amplify-ui",
-      "description": "Amplify UI is a collection of accessible, themeable, performant React (and more!) components that can connect directly to the cloud.",
+      "description": "Amplify UI is a collection of accessible, themeable, performant React (and ...",
       "stars": 884,
       "delta": 84,
       "relativeGrowth": 0.105,
@@ -1515,7 +1515,7 @@
     {
       "name": "Bati",
       "full_name": "vikejs/bati",
-      "description": "Next-gen scaffolder. Get started with fully-functional apps, and choose any tool you want.",
+      "description": "Next-gen scaffolder. Get started with fully-functional apps, and choose any...",
       "stars": 240,
       "delta": 21,
       "relativeGrowth": 0.0959,
@@ -1537,7 +1537,7 @@
     {
       "name": "OnchainKit",
       "full_name": "coinbase/onchainkit",
-      "description": "React components and TypeScript utilities to help you build top-tier onchain apps.",
+      "description": "React components and TypeScript utilities to help you build top-tier onchai...",
       "stars": 534,
       "delta": 46,
       "relativeGrowth": 0.0943,
@@ -1592,7 +1592,7 @@
     {
       "name": "StatiCrypt",
       "full_name": "robinmoisson/staticrypt",
-      "description": "Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.",
+      "description": "Password protect a static HTML page, decrypted in-browser in JS with no dep...",
       "stars": 6782,
       "delta": 565,
       "relativeGrowth": 0.0909,
@@ -1691,7 +1691,7 @@
     {
       "name": "regex",
       "full_name": "slevithan/regex",
-      "description": "Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices",
+      "description": "Regex template tag for readable, high-performance, native JS regexes, with ...",
       "stars": 463,
       "delta": 34,
       "relativeGrowth": 0.0793,
@@ -1724,7 +1724,7 @@
     {
       "name": "Poku",
       "full_name": "wellwelwel/poku",
-      "description": "A cross-platform test runner that brings the JavaScript essence back to testing.",
+      "description": "A cross-platform test runner that brings the JavaScript essence back to tes...",
       "stars": 619,
       "delta": 44,
       "relativeGrowth": 0.0765,
@@ -1757,7 +1757,7 @@
     {
       "name": "JollyUI",
       "full_name": "jolbol1/jolly-ui",
-      "description": "shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+      "description": "shadcn/ui compatible react aria components that you can copy and paste into...",
       "stars": 702,
       "delta": 49,
       "relativeGrowth": 0.075,
@@ -1801,7 +1801,7 @@
     {
       "name": "Conform",
       "full_name": "edmundhung/conform",
-      "description": "A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js.",
+      "description": "A type-safe form validation library utilizing web fundamentals to progressi...",
       "stars": 1904,
       "delta": 131,
       "relativeGrowth": 0.0739,
@@ -1812,7 +1812,7 @@
     {
       "name": "gluestack-ui",
       "full_name": "gluestack/gluestack-ui",
-      "description": "React & React Native Components & Patterns (copy-paste components & patterns crafted with Tailwind CSS (NativeWind))",
+      "description": "React & React Native Components & Patterns (copy-paste components & pattern...",
       "stars": 2434,
       "delta": 157,
       "relativeGrowth": 0.069,
@@ -1823,7 +1823,7 @@
     {
       "name": "TypeSQL",
       "full_name": "wsporto/typesql",
-      "description": "Generate Typescript API from raw SQL. Supports MySQL, Sqlite and LibSQL (Turso) ",
+      "description": "Generate Typescript API from raw SQL. Supports MySQL, Sqlite and LibSQL (Tu...",
       "stars": 207,
       "delta": 13,
       "relativeGrowth": 0.067,
@@ -1834,7 +1834,7 @@
     {
       "name": "KitaJS",
       "full_name": "kitajs/kitajs",
-      "description": "Performant & type safe fastify router — end-to-end safety with ZERO abstraction cost!",
+      "description": "Performant & type safe fastify router — end-to-end safety with ZERO abstrac...",
       "stars": 288,
       "delta": 18,
       "relativeGrowth": 0.0667,
@@ -1845,7 +1845,7 @@
     {
       "name": "AutoForm",
       "full_name": "vantezzen/auto-form",
-      "description": "A React component that automatically creates a @shadcn/ui form based on a zod schema.",
+      "description": "A React component that automatically creates a @shadcn/ui form based on a z...",
       "stars": 2733,
       "delta": 170,
       "relativeGrowth": 0.0663,
@@ -1867,7 +1867,7 @@
     {
       "name": "MarkdownDB",
       "full_name": "datopian/markdowndb",
-      "description": "Turn markdown files into structured, queryable data (SQL and JSON). Build rich markdown-powered sites fast and reliably.",
+      "description": "Turn markdown files into structured, queryable data (SQL and JSON). Build r...",
       "stars": 244,
       "delta": 15,
       "relativeGrowth": 0.0655,
@@ -1878,7 +1878,7 @@
     {
       "name": "Trystero",
       "full_name": "dmotz/trystero",
-      "description": "Build instant multiplayer webapps, no server required — Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase",
+      "description": "Build instant multiplayer webapps, no server required — Magic WebRTC matchm...",
       "stars": 1199,
       "delta": 73,
       "relativeGrowth": 0.0648,
@@ -1900,7 +1900,7 @@
     {
       "name": "SQLocal",
       "full_name": "DallasHoff/sqlocal",
-      "description": "SQLocal makes it easy to run SQLite3 in the browser, backed by the origin private file system.",
+      "description": "SQLocal makes it easy to run SQLite3 in the browser, backed by the origin p...",
       "stars": 298,
       "delta": 18,
       "relativeGrowth": 0.0643,
@@ -1911,7 +1911,7 @@
     {
       "name": "Vaul",
       "full_name": "emilkowalski/vaul",
-      "description": "An unstyled drawer component for React.",
+      "description": "A drawer component for React.",
       "stars": 5988,
       "delta": 362,
       "relativeGrowth": 0.0643,
@@ -1944,7 +1944,7 @@
     {
       "name": "react-native-live-markdown",
       "full_name": "Expensify/react-native-live-markdown",
-      "description": "Drop-in replacement for React Native's TextInput component with Markdown formatting.",
+      "description": "Drop-in replacement for React Native's TextInput component with Markdown fo...",
       "stars": 778,
       "delta": 46,
       "relativeGrowth": 0.0628,
@@ -1955,7 +1955,7 @@
     {
       "name": "TypeSpec",
       "full_name": "microsoft/typespec",
-      "description": "Describe your data up front and generate schemas, API specifications, client / server code, docs, and more",
+      "description": "Describe your data up front and generate schemas, API specifications, clien...",
       "stars": 4346,
       "delta": 255,
       "relativeGrowth": 0.0623,
@@ -1966,7 +1966,7 @@
     {
       "name": "BeerCSS",
       "full_name": "beercss/beercss",
-      "description": "Build material design interfaces in record time... without stress for devs...",
+      "description": "Build material design interfaces in record time... without stress for devs....",
       "stars": 1322,
       "delta": 77,
       "relativeGrowth": 0.0618,
@@ -1988,7 +1988,7 @@
     {
       "name": "Unovis",
       "full_name": "f5/unovis",
-      "description": "Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript",
+      "description": "Modular data visualization framework for React, Angular, Svelte, Vue, and v...",
       "stars": 2190,
       "delta": 123,
       "relativeGrowth": 0.0595,
@@ -2043,7 +2043,7 @@
     {
       "name": "Svelte UX",
       "full_name": "techniq/svelte-ux",
-      "description": "Collection of Svelte components, actions, stores, and utilities to build highly interactive applications.",
+      "description": "Collection of Svelte components, actions, stores, and utilities to build hi...",
       "stars": 760,
       "delta": 41,
       "relativeGrowth": 0.057,
@@ -2054,7 +2054,7 @@
     {
       "name": "Astro Font",
       "full_name": "rishi-raj-jain/astro-font",
-      "description": "Automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN and Google fonts for performance.",
+      "description": "Automatically optimize your Custom Fonts, Local Fonts, Fonts over any CDN a...",
       "stars": 130,
       "delta": 7,
       "relativeGrowth": 0.0569,
@@ -2065,7 +2065,7 @@
     {
       "name": "Revezone",
       "full_name": "revezone/revezone",
-      "description": "A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tldraw 白板和类 Notion 笔记。",
+      "description": "A lightweight local-first graphic-centric  productivity tool to build your ...",
       "stars": 1784,
       "delta": 96,
       "relativeGrowth": 0.0569,
@@ -2076,7 +2076,7 @@
     {
       "name": "Inngest",
       "full_name": "inngest/inngest-js",
-      "description": "The developer platform for easily building reliable workflows with zero infrastructure for TypeScript & JavaScript",
+      "description": "The developer platform for easily building reliable workflows with zero inf...",
       "stars": 409,
       "delta": 22,
       "relativeGrowth": 0.0568,
@@ -2109,7 +2109,7 @@
     {
       "name": "Biome",
       "full_name": "biomejs/biome",
-      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain ...",
       "stars": 14485,
       "delta": 730,
       "relativeGrowth": 0.0531,
@@ -2120,7 +2120,7 @@
     {
       "name": "enterprise-commerce",
       "full_name": "Blazity/enterprise-commerce",
-      "description": "Next.js storefront for high-performance eCommerce with AI features and one-click deployment",
+      "description": "Next.js storefront for high-performance eCommerce with AI features and one-...",
       "stars": 418,
       "delta": 21,
       "relativeGrowth": 0.0529,
@@ -2175,7 +2175,7 @@
     {
       "name": "node-llama-cpp",
       "full_name": "withcatai/node-llama-cpp",
-      "description": "Run AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON schema on the model output on the generation level",
+      "description": "Run AI models locally on your machine with node.js bindings for llama.cpp. ...",
       "stars": 859,
       "delta": 41,
       "relativeGrowth": 0.0501,
@@ -2184,20 +2184,9 @@
       "created_at": "2023-08-12T20:53:16.000Z"
     },
     {
-      "name": "Svelte Flow",
-      "full_name": "xyflow/xyflow",
-      "description": "A customizable Svelte component for building node-based editors and interactive diagrams by the creators of React Flow",
-      "stars": 24954,
-      "delta": 1167,
-      "relativeGrowth": 0.0491,
-      "tags": ["diagram", "svelte", "graph"],
-      "owner_id": "7106853",
-      "created_at": "2019-07-15T14:47:30.000Z"
-    },
-    {
       "name": "React Flow",
       "full_name": "xyflow/xyflow",
-      "description": "A customizable React component for building node-based editors and interactive diagrams",
+      "description": "A customizable React component for building node-based editors and interact...",
       "stars": 24954,
       "delta": 1167,
       "relativeGrowth": 0.0491,
@@ -2237,6 +2226,17 @@
       "tags": ["react", "graphql", "ecommerce"],
       "owner_id": "83757778",
       "created_at": "2021-05-06T09:23:37.000Z"
+    },
+    {
+      "name": "Vidstack",
+      "full_name": "vidstack/player",
+      "description": "Build your media player only using HTML and CSS",
+      "stars": 2146,
+      "delta": 99,
+      "relativeGrowth": 0.0484,
+      "tags": ["video", "webcomponent"],
+      "owner_id": "73653316",
+      "created_at": "2021-01-25T22:50:37.000Z"
     }
   ]
 }
