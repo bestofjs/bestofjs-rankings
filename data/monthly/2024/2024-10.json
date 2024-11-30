@@ -2,7 +2,7 @@
   "year": 2024,
   "month": 10,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "shadcn/ui",
