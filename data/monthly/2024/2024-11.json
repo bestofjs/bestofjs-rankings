@@ -2,7 +2,7 @@
   "year": 2024,
   "month": 11,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "WebVM",
