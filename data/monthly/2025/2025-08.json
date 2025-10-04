@@ -2,7 +2,7 @@
   "year": 2025,
   "month": 8,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "n8n",
