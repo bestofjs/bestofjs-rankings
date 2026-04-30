@@ -11,6 +11,6 @@
     }
   ],
   "rewrites": [
-    { "source": "/monthly/latest", "destination": "/monthly/2026/2026-03.json" }
+    { "source": "/monthly/latest", "destination": "/monthly/2026/2026-04.json" }
   ]
 }
