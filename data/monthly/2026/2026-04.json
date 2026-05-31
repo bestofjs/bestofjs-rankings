@@ -2,7 +2,7 @@
   "year": 2026,
   "month": 4,
   "isFirst": false,
-  "isLatest": true,
+  "isLatest": false,
   "trending": [
     {
       "name": "OpenClaw",
