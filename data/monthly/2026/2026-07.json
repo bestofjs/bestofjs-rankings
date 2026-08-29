@@ -11,7 +11,7 @@
       "stars": 197734,
       "delta": 46080,
       "relativeGrowth": 0.3038,
-      "tags": ["skills"],
+      "tags": ["ai", "skills"],
       "owner_id": 28293365,
       "created_at": "2026-02-03T11:15:53.000Z"
     },
@@ -1256,7 +1256,7 @@
       "stars": 197734,
       "delta": 46080,
       "relativeGrowth": 0.3038,
-      "tags": ["skills"],
+      "tags": ["ai", "skills"],
       "owner_id": 28293365,
       "created_at": "2026-02-03T11:15:53.000Z"
     },
@@ -1509,7 +1509,7 @@
       "stars": 909,
       "delta": 66,
       "relativeGrowth": 0.0783,
-      "tags": ["skills"],
+      "tags": ["ai", "skills"],
       "owner_id": 1778935,
       "created_at": "2026-01-27T20:22:24.000Z"
     },
