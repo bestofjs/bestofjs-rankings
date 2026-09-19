@@ -7,6 +7,7 @@
     {
       "name": "Astro",
       "full_name": "withastro/astro",
+      "slug": "astro",
       "description": "A website build tool for the modern web — powerful developer experience meets lightweight output.",
       "stars": 18547,
       "delta": 5339,
@@ -20,6 +21,7 @@
     {
       "name": "Bun",
       "full_name": "oven-sh/bun",
+      "slug": "bun",
       "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
       "stars": 33240,
       "delta": 3674,
@@ -33,6 +35,7 @@
     {
       "name": "Tabler",
       "full_name": "tabler/tabler",
+      "slug": "tabler",
       "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "stars": 31243,
       "delta": 2620,
@@ -45,6 +48,7 @@
     {
       "name": "Crawlee",
       "full_name": "apify/crawlee",
+      "slug": "crawlee",
       "description": "The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.",
       "stars": 5996,
       "delta": 2552,
@@ -57,6 +61,7 @@
     {
       "name": "Docusaurus",
       "full_name": "facebook/docusaurus",
+      "slug": "docusaurus",
       "description": "Easy to maintain open source documentation websites.",
       "stars": 37480,
       "delta": 2203,
@@ -70,6 +75,7 @@
     {
       "name": "Supabase",
       "full_name": "supabase/supabase",
+      "slug": "supabase",
       "description": "The open source Firebase alternative",
       "stars": 38217,
       "delta": 2129,
@@ -82,6 +88,7 @@
     {
       "name": "Million",
       "full_name": "aidenybai/million",
+      "slug": "million",
       "description": "<1KB Virtual DOM Implementation",
       "stars": 5199,
       "delta": 2037,
@@ -94,6 +101,7 @@
     {
       "name": "Tabby",
       "full_name": "Eugeny/tabby",
+      "slug": "tabby",
       "description": "A terminal for a more modern age",
       "stars": 37431,
       "delta": 1822,
@@ -106,6 +114,7 @@
     {
       "name": "Tauri",
       "full_name": "tauri-apps/tauri",
+      "slug": "tauri",
       "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
       "stars": 49416,
       "delta": 1785,
@@ -119,6 +128,7 @@
     {
       "name": "React",
       "full_name": "facebook/react",
+      "slug": "react",
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "stars": 194091,
       "delta": 1674,
@@ -132,6 +142,7 @@
     {
       "name": "tRPC",
       "full_name": "trpc/trpc",
+      "slug": "trpc",
       "description": "Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
       "stars": 11933,
       "delta": 1568,
@@ -151,6 +162,7 @@
     {
       "name": "Next.js",
       "full_name": "vercel/next.js",
+      "slug": "nextjs",
       "description": "The React Framework",
       "stars": 91886,
       "delta": 1469,
@@ -171,6 +183,7 @@
     {
       "name": "Vite",
       "full_name": "vitejs/vite",
+      "slug": "vite",
       "description": "Next generation frontend tooling. It's fast!",
       "stars": 46885,
       "delta": 1417,
@@ -184,6 +197,7 @@
     {
       "name": "VS Code",
       "full_name": "microsoft/vscode",
+      "slug": "vs-code",
       "description": "Visual Studio Code",
       "stars": 135997,
       "delta": 1206,
@@ -197,6 +211,7 @@
     {
       "name": "Mark Text",
       "full_name": "marktext/marktext",
+      "slug": "mark-text",
       "description": "A simple and elegant markdown editor, available for Linux, macOS and Windows.",
       "stars": 35507,
       "delta": 1148,
@@ -209,6 +224,7 @@
     {
       "name": "Zustand",
       "full_name": "pmndrs/zustand",
+      "slug": "zustand",
       "description": "Bear necessities for state management in React",
       "stars": 21091,
       "delta": 1127,
@@ -221,6 +237,7 @@
     {
       "name": "T3 Stack",
       "full_name": "t3-oss/create-t3-app",
+      "slug": "create-t3-app",
       "description": "Quickest way to start a new web app with full stack typesafety",
       "stars": 5764,
       "delta": 1118,
@@ -233,6 +250,7 @@
     {
       "name": "Playwright",
       "full_name": "microsoft/playwright",
+      "slug": "playwright",
       "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
       "stars": 41628,
       "delta": 1066,
@@ -246,6 +264,7 @@
     {
       "name": "Zod",
       "full_name": "colinhacks/zod",
+      "slug": "zod",
       "description": "TypeScript-first schema validation with static type inference",
       "stars": 10842,
       "delta": 1062,
@@ -258,6 +277,7 @@
     {
       "name": "Solid",
       "full_name": "solidjs/solid",
+      "slug": "solid",
       "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
       "stars": 21748,
       "delta": 984,
@@ -271,6 +291,7 @@
     {
       "name": "TypeScript",
       "full_name": "microsoft/TypeScript",
+      "slug": "typescript",
       "description": "A superset of JavaScript that compiles to clean JavaScript output.",
       "stars": 83831,
       "delta": 981,
@@ -284,6 +305,7 @@
     {
       "name": "Tailwind CSS",
       "full_name": "tailwindlabs/tailwindcss",
+      "slug": "tailwind-css",
       "description": "A utility-first CSS framework for rapid UI development.",
       "stars": 60233,
       "delta": 971,
@@ -297,6 +319,7 @@
     {
       "name": "Nest",
       "full_name": "nestjs/nest",
+      "slug": "nest",
       "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8)",
       "stars": 49981,
       "delta": 914,
@@ -310,6 +333,7 @@
     {
       "name": "Mantine",
       "full_name": "mantinedev/mantine",
+      "slug": "mantine",
       "description": "React components library with native dark theme support",
       "stars": 13907,
       "delta": 906,
@@ -322,6 +346,7 @@
     {
       "name": "Reveal",
       "full_name": "hakimel/reveal.js",
+      "slug": "reveal",
       "description": "The HTML Presentation Framework",
       "stars": 61660,
       "delta": 899,
@@ -335,6 +360,7 @@
     {
       "name": "ts-pattern",
       "full_name": "gvergnaud/ts-pattern",
+      "slug": "ts-pattern",
       "description": "The exhaustive Pattern Matching library for TypeScript, with smart type inference.",
       "stars": 3943,
       "delta": 881,
@@ -346,6 +372,7 @@
     {
       "name": "Strapi",
       "full_name": "strapi/strapi",
+      "slug": "strapi",
       "description": "Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
       "stars": 47452,
       "delta": 860,
@@ -359,6 +386,7 @@
     {
       "name": "Three.js",
       "full_name": "mrdoob/three.js",
+      "slug": "threejs",
       "description": "JavaScript 3D Library.",
       "stars": 84858,
       "delta": 844,
@@ -372,6 +400,7 @@
     {
       "name": "DaisyUI",
       "full_name": "saadeghi/daisyui",
+      "slug": "daisyui",
       "description": "Component classes to Tailwind CSS",
       "stars": 13962,
       "delta": 827,
@@ -384,6 +413,7 @@
     {
       "name": "react-use",
       "full_name": "streamich/react-use",
+      "slug": "react-use",
       "description": "Collection of essential React Hooks",
       "stars": 31623,
       "delta": 827,
@@ -396,6 +426,7 @@
     {
       "name": "Vue.js 2",
       "full_name": "vuejs/vue",
+      "slug": "vuejs-2",
       "description": "A progressive, incrementally-adoptable framework for building UI on the web",
       "stars": 199005,
       "delta": 733,
@@ -409,6 +440,7 @@
     {
       "name": "nvm",
       "full_name": "nvm-sh/nvm",
+      "slug": "nvm",
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
       "stars": 60545,
       "delta": 718,
@@ -420,6 +452,7 @@
     {
       "name": "Node.js",
       "full_name": "nodejs/node",
+      "slug": "nodejs",
       "description": "Node.js JavaScript runtime",
       "stars": 89880,
       "delta": 709,
@@ -433,6 +466,7 @@
     {
       "name": "Deno",
       "full_name": "denoland/deno",
+      "slug": "deno",
       "description": "A modern runtime for JavaScript and TypeScript.",
       "stars": 85036,
       "delta": 708,
@@ -446,6 +480,7 @@
     {
       "name": "n8n",
       "full_name": "n8n-io/n8n",
+      "slug": "n8n",
       "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
       "stars": 24361,
       "delta": 701,
@@ -458,6 +493,7 @@
     {
       "name": "React Native Skia",
       "full_name": "Shopify/react-native-skia",
+      "slug": "react-native-skia",
       "description": "High-performance React Native Graphics using Skia",
       "stars": 4142,
       "delta": 688,
@@ -470,6 +506,7 @@
     {
       "name": "Prisma",
       "full_name": "prisma/prisma",
+      "slug": "prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "stars": 25234,
       "delta": 687,
@@ -483,6 +520,7 @@
     {
       "name": "Svelte",
       "full_name": "sveltejs/svelte",
+      "slug": "svelte",
       "description": "Cybernetically enhanced web apps",
       "stars": 61799,
       "delta": 683,
@@ -496,6 +534,7 @@
     {
       "name": "Heroicons",
       "full_name": "tailwindlabs/heroicons",
+      "slug": "heroicons",
       "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
       "stars": 16264,
       "delta": 681,
@@ -509,6 +548,7 @@
     {
       "name": "MUI",
       "full_name": "mui/material-ui",
+      "slug": "material-ui",
       "description": " A robust, customizable, and accessible library of foundational and advanced components, enabling you to build your own design system and develop React applications faster",
       "stars": 80827,
       "delta": 666,
@@ -522,6 +562,7 @@
     {
       "name": "SvelteKit",
       "full_name": "sveltejs/kit",
+      "slug": "sveltekit",
       "description": "The fastest way to build Svelte apps",
       "stars": 10161,
       "delta": 656,
@@ -534,6 +575,7 @@
     {
       "name": "Mermaid",
       "full_name": "mermaid-js/mermaid",
+      "slug": "mermaid",
       "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
       "stars": 49599,
       "delta": 654,
@@ -546,6 +588,7 @@
     {
       "name": "Vue Element Admin",
       "full_name": "PanJiaChen/vue-element-admin",
+      "slug": "vue-element-admin",
       "description": "A magical vue admin",
       "stars": 78228,
       "delta": 642,
@@ -558,6 +601,7 @@
     {
       "name": "Lyra",
       "full_name": "LyraSearch/lyra",
+      "slug": "orama",
       "description": "Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
       "stars": 3232,
       "delta": 623,
@@ -570,6 +614,7 @@
     {
       "name": "Vue.js 3",
       "full_name": "vuejs/core",
+      "slug": "vuejs",
       "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
       "stars": 32301,
       "delta": 621,
@@ -583,6 +628,7 @@
     {
       "name": "Fresh",
       "full_name": "denoland/fresh",
+      "slug": "fresh",
       "description": "The next-gen web framework.",
       "stars": 8667,
       "delta": 619,
@@ -595,6 +641,7 @@
     {
       "name": "NocoDB",
       "full_name": "nocodb/nocodb",
+      "slug": "nocodb",
       "description": "Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.",
       "stars": 29685,
       "delta": 615,
@@ -607,6 +654,7 @@
     {
       "name": "React Hook Form",
       "full_name": "react-hook-form/react-hook-form",
+      "slug": "react-hook-form",
       "description": "React Hooks for form state management and validation (Web + React Native)",
       "stars": 30293,
       "delta": 610,
@@ -620,6 +668,7 @@
     {
       "name": "Axios",
       "full_name": "axios/axios",
+      "slug": "axios",
       "description": "Promise based HTTP client for the browser and node.js",
       "stars": 95484,
       "delta": 601,
@@ -633,6 +682,7 @@
     {
       "name": "Bulletproof React",
       "full_name": "alan2207/bulletproof-react",
+      "slug": "bulletproof-react",
       "description": "A simple, scalable, and powerful architecture for building production ready React applications.",
       "stars": 13891,
       "delta": 592,
@@ -644,6 +694,7 @@
     {
       "name": "Cypress",
       "full_name": "cypress-io/cypress",
+      "slug": "cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "stars": 40264,
       "delta": 583,
@@ -657,6 +708,7 @@
     {
       "name": "Angular",
       "full_name": "angular/angular",
+      "slug": "angular",
       "description": "The modern web developer’s platform",
       "stars": 83553,
       "delta": 580,
@@ -670,6 +722,7 @@
     {
       "name": "Storybook",
       "full_name": "storybookjs/storybook",
+      "slug": "storybook",
       "description": "The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
       "stars": 73656,
       "delta": 579,
@@ -683,6 +736,7 @@
     {
       "name": "TanStack Query",
       "full_name": "TanStack/query",
+      "slug": "tanstack-query",
       "description": "Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
       "stars": 29521,
       "delta": 576,
@@ -696,6 +750,7 @@
     {
       "name": "Remix",
       "full_name": "remix-run/remix",
+      "slug": "remix",
       "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
       "stars": 18995,
       "delta": 575,
@@ -709,6 +764,7 @@
     {
       "name": "pnpm",
       "full_name": "pnpm/pnpm",
+      "slug": "pnpm",
       "description": "Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具",
       "stars": 19191,
       "delta": 572,
@@ -721,6 +777,7 @@
     {
       "name": "Electron",
       "full_name": "electron/electron",
+      "slug": "electron",
       "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "stars": 103426,
       "delta": 571,
@@ -734,6 +791,7 @@
     {
       "name": "json-server",
       "full_name": "typicode/json-server",
+      "slug": "json-server",
       "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
       "stars": 63080,
       "delta": 570,
@@ -745,6 +803,7 @@
     {
       "name": "Serverless Stack",
       "full_name": "serverless-stack/sst",
+      "slug": "sst",
       "description": "A framework that makes it easy to build serverless apps",
       "stars": 8310,
       "delta": 568,
@@ -757,6 +816,7 @@
     {
       "name": "VueUse",
       "full_name": "vueuse/vueuse",
+      "slug": "vueuse",
       "description": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
       "stars": 11597,
       "delta": 566,
@@ -769,6 +829,7 @@
     {
       "name": "React Native",
       "full_name": "facebook/react-native",
+      "slug": "react-native",
       "description": "A framework for building native applications using React",
       "stars": 104587,
       "delta": 550,
@@ -782,6 +843,7 @@
     {
       "name": "Qwik",
       "full_name": "BuilderIO/qwik",
+      "slug": "qwik",
       "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
       "stars": 5806,
       "delta": 548,
@@ -795,6 +857,7 @@
     {
       "name": "Jotai",
       "full_name": "pmndrs/jotai",
+      "slug": "jotai",
       "description": "Primitive and flexible state management for React",
       "stars": 9822,
       "delta": 547,
@@ -807,6 +870,7 @@
     {
       "name": "Turborepo",
       "full_name": "vercel/turborepo",
+      "slug": "turborepo",
       "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
       "stars": 9065,
       "delta": 535,
@@ -820,6 +884,7 @@
     {
       "name": "Monaco Editor",
       "full_name": "microsoft/monaco-editor",
+      "slug": "monaco-editor",
       "description": "A browser based code editor",
       "stars": 30949,
       "delta": 518,
@@ -832,6 +897,7 @@
     {
       "name": "Phaser",
       "full_name": "photonstorm/phaser",
+      "slug": "phaser",
       "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
       "stars": 32675,
       "delta": 516,
@@ -844,6 +910,7 @@
     {
       "name": "Payload",
       "full_name": "payloadcms/payload",
+      "slug": "payload",
       "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
       "stars": 6789,
       "delta": 513,
@@ -856,6 +923,7 @@
     {
       "name": "Headless UI",
       "full_name": "tailwindlabs/headlessui",
+      "slug": "headless-ui",
       "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
       "stars": 16474,
       "delta": 513,
@@ -869,6 +937,7 @@
     {
       "name": "Nx",
       "full_name": "nrwl/nx",
+      "slug": "nx",
       "description": "Smart, Fast and Extensible Build System",
       "stars": 14346,
       "delta": 499,
@@ -882,6 +951,7 @@
     {
       "name": "Responsively",
       "full_name": "responsively-org/responsively-app",
+      "slug": "responsively",
       "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
       "stars": 17475,
       "delta": 492,
@@ -894,6 +964,7 @@
     {
       "name": "Chakra UI",
       "full_name": "chakra-ui/chakra-ui",
+      "slug": "chakra-ui",
       "description": "Simple, Modular & Accessible UI Components for your React Applications",
       "stars": 28444,
       "delta": 491,
@@ -907,6 +978,7 @@
     {
       "name": "swc",
       "full_name": "swc-project/swc",
+      "slug": "swc",
       "description": "A super-fast compiler written in rust",
       "stars": 23674,
       "delta": 489,
@@ -920,6 +992,7 @@
     {
       "name": "Bootstrap",
       "full_name": "twbs/bootstrap",
+      "slug": "bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "stars": 159248,
       "delta": 470,
@@ -933,6 +1006,7 @@
     {
       "name": "tiptap",
       "full_name": "ueberdosis/tiptap",
+      "slug": "tiptap",
       "description": "The headless editor framework for web artisans.",
       "stars": 16256,
       "delta": 469,
@@ -945,6 +1019,7 @@
     {
       "name": "Create React App",
       "full_name": "facebook/create-react-app",
+      "slug": "create-react-app",
       "description": "Set up a modern web app by running one command.",
       "stars": 96721,
       "delta": 465,
@@ -958,6 +1033,7 @@
     {
       "name": "UnoCSS",
       "full_name": "unocss/unocss",
+      "slug": "unocss",
       "description": "The instant on-demand atomic CSS engine.",
       "stars": 6499,
       "delta": 460,
@@ -970,6 +1046,7 @@
     {
       "name": "Nativefier",
       "full_name": "nativefier/nativefier",
+      "slug": "nativefier",
       "description": "Make any web page a desktop application",
       "stars": 31473,
       "delta": 460,
@@ -981,6 +1058,7 @@
     {
       "name": "discord.js",
       "full_name": "discordjs/discord.js",
+      "slug": "discordjs",
       "description": "A powerful JavaScript library for interacting with the Discord API",
       "stars": 20726,
       "delta": 455,
@@ -993,6 +1071,7 @@
     {
       "name": "Nuxt 3",
       "full_name": "nuxt/framework",
+      "slug": "nuxt-3",
       "description": "The Hybrid Vue(3) Framework.",
       "stars": 8710,
       "delta": 453,
@@ -1006,6 +1085,7 @@
     {
       "name": "Puppeteer",
       "full_name": "puppeteer/puppeteer",
+      "slug": "puppeteer",
       "description": "Headless Chrome Node.js API",
       "stars": 79658,
       "delta": 450,
@@ -1019,6 +1099,7 @@
     {
       "name": "Solid Start",
       "full_name": "solidjs/solid-start",
+      "slug": "solid-start",
       "description": "SolidStart, the Solid app framework",
       "stars": 1115,
       "delta": 440,
@@ -1031,6 +1112,7 @@
     {
       "name": "DefinitelyTyped",
       "full_name": "DefinitelyTyped/DefinitelyTyped",
+      "slug": "definitelytyped",
       "description": "The repository for high quality TypeScript type definitions.",
       "stars": 40571,
       "delta": 438,
@@ -1042,6 +1124,7 @@
     {
       "name": "Medusa",
       "full_name": "medusajs/medusa",
+      "slug": "medusa",
       "description": "The open-source Shopify alternative",
       "stars": 13594,
       "delta": 430,
@@ -1054,6 +1137,7 @@
     {
       "name": "Nano ID",
       "full_name": "ai/nanoid",
+      "slug": "nano-id",
       "description": "A tiny, secure, URL-friendly, unique string ID generator ",
       "stars": 18472,
       "delta": 428,
@@ -1066,6 +1150,7 @@
     {
       "name": "Vitest",
       "full_name": "vitest-dev/vitest",
+      "slug": "vitest",
       "description": "A Vite-native test framework. It's fast!",
       "stars": 6111,
       "delta": 424,
@@ -1079,6 +1164,7 @@
     {
       "name": "Swiper",
       "full_name": "nolimits4web/swiper",
+      "slug": "swiper",
       "description": "Most modern mobile touch slider with hardware accelerated transitions",
       "stars": 32367,
       "delta": 412,
@@ -1092,6 +1178,7 @@
     {
       "name": "Yjs",
       "full_name": "yjs/yjs",
+      "slug": "yjs",
       "description": "Shared data types for building collaborative software",
       "stars": 8806,
       "delta": 410,
@@ -1104,6 +1191,7 @@
     {
       "name": "Slidev",
       "full_name": "slidevjs/slidev",
+      "slug": "slidev",
       "description": "Presentation Slides for Developers",
       "stars": 22344,
       "delta": 408,
@@ -1117,6 +1205,7 @@
     {
       "name": "zx",
       "full_name": "google/zx",
+      "slug": "zx",
       "description": "A tool for writing better scripts",
       "stars": 33860,
       "delta": 405,
@@ -1128,6 +1217,7 @@
     {
       "name": "React Flow",
       "full_name": "wbkd/react-flow",
+      "slug": "react-flow",
       "description": "Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram",
       "stars": 11805,
       "delta": 405,
@@ -1141,6 +1231,7 @@
     {
       "name": "Ant Design",
       "full_name": "ant-design/ant-design",
+      "slug": "ant-design",
       "description": "An enterprise-class UI design language and React UI library",
       "stars": 81688,
       "delta": 404,
@@ -1154,6 +1245,7 @@
     {
       "name": "Excalidraw",
       "full_name": "excalidraw/excalidraw",
+      "slug": "excalidraw",
       "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
       "stars": 32313,
       "delta": 401,
@@ -1166,6 +1258,7 @@
     {
       "name": "Element Plus",
       "full_name": "element-plus/element-plus",
+      "slug": "element-plus",
       "description": "A Vue.js 3 UI Library made by Element team",
       "stars": 16901,
       "delta": 393,
@@ -1178,6 +1271,7 @@
     {
       "name": "Echarts",
       "full_name": "apache/echarts",
+      "slug": "echarts",
       "description": "A powerful, interactive charting and data visualization library for browser",
       "stars": 52336,
       "delta": 393,
@@ -1190,6 +1284,7 @@
     {
       "name": "Framer Motion",
       "full_name": "framer/motion",
+      "slug": "motion",
       "description": "Production-ready animation and gesture library for React ",
       "stars": 15739,
       "delta": 387,
@@ -1203,6 +1298,7 @@
     {
       "name": "swr",
       "full_name": "vercel/swr",
+      "slug": "swr",
       "description": "React Hooks for Data Fetching",
       "stars": 23764,
       "delta": 382,
@@ -1216,6 +1312,7 @@
     {
       "name": "tldraw",
       "full_name": "tldraw/tldraw",
+      "slug": "tldraw",
       "description": "A tiny little drawing app.",
       "stars": 9445,
       "delta": 375,
@@ -1228,6 +1325,7 @@
     {
       "name": "Radix",
       "full_name": "radix-ui/primitives",
+      "slug": "radix",
       "description": "An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
       "stars": 5796,
       "delta": 374,
@@ -1241,6 +1339,7 @@
     {
       "name": "react-three-fiber",
       "full_name": "pmndrs/react-three-fiber",
+      "slug": "react-three-fiber",
       "description": "A React renderer for Three.js",
       "stars": 19303,
       "delta": 370,
@@ -1253,6 +1352,7 @@
     {
       "name": "Histoire",
       "full_name": "histoire-dev/histoire",
+      "slug": "histoire",
       "description": "Fast and beautiful interactive component playgrounds, powered by Vite",
       "stars": 1543,
       "delta": 367,
@@ -1267,6 +1367,7 @@
     {
       "name": "Alt",
       "full_name": "goatslacker/alt",
+      "slug": "alt",
       "description": "Isomorphic flux implementation",
       "stars": 3452,
       "delta": 0,
@@ -1279,6 +1380,7 @@
     {
       "name": "Flux",
       "full_name": "facebook/flux",
+      "slug": "flux",
       "description": "Application Architecture for Building User Interfaces",
       "stars": 17339,
       "delta": 0,
@@ -1292,6 +1394,7 @@
     {
       "name": "Fluxible",
       "full_name": "yahoo/fluxible",
+      "slug": "fluxible",
       "description": "A pluggable container for universal flux applications.",
       "stars": 1810,
       "delta": 0,
@@ -1304,6 +1407,7 @@
     {
       "name": "FluxThis",
       "full_name": "addthis/fluxthis",
+      "slug": "fluxthis",
       "description": "super-opinionated, yell-at-you-for-everything, immutable Flux framework",
       "stars": 192,
       "delta": 0,
@@ -1315,6 +1419,7 @@
     {
       "name": "ShouldJS",
       "full_name": "shouldjs/should.js",
+      "slug": "shouldjs",
       "description": "BDD style assertions for node.js -- test framework agnostic",
       "stars": 1912,
       "delta": 0,
@@ -1327,6 +1432,7 @@
     {
       "name": "Material Design for Bootstrap",
       "full_name": "FezVrasta/bootstrap-material-design",
+      "slug": "material-design-for-bootstrap",
       "description": "Redirect repository",
       "stars": 21,
       "delta": 0,
@@ -1338,6 +1444,7 @@
     {
       "name": "Ractive",
       "full_name": "ractivejs/ractive",
+      "slug": "ractive",
       "description": "Next-generation DOM manipulation",
       "stars": 5884,
       "delta": 0,
@@ -1350,6 +1457,7 @@
     {
       "name": "Iconate",
       "full_name": "bitshadow/iconate",
+      "slug": "iconate",
       "description": "Transform your icons with trendy animations.",
       "stars": 2006,
       "delta": 0,
@@ -1362,6 +1470,7 @@
     {
       "name": "React forms",
       "full_name": "prometheusresearch-archive/react-forms",
+      "slug": "react-forms",
       "description": "Forms library for React.",
       "stars": 1172,
       "delta": 0,
@@ -1373,6 +1482,7 @@
     {
       "name": "Mind",
       "full_name": "stevenmiller888/mind",
+      "slug": "mind",
       "description": "A neural network library built in JavaScript",
       "stars": 1473,
       "delta": 0,
@@ -1385,6 +1495,7 @@
     {
       "name": "html5 tooltips",
       "full_name": "ytiurin/html5tooltipsjs",
+      "slug": "html5-tooltips",
       "description": "Tooltips with smooth 3D animation",
       "stars": 886,
       "delta": 0,
@@ -1397,6 +1508,7 @@
     {
       "name": "Intern",
       "full_name": "theintern/intern",
+      "slug": "intern",
       "description": "A next-generation code testing stack for JavaScript.",
       "stars": 4345,
       "delta": 0,
@@ -1409,6 +1521,7 @@
     {
       "name": "Highlighter.js",
       "full_name": "720kb/highlighter.js",
+      "slug": "highlighterjs",
       "description": "Easily navigate the DOM and highlight the elements - http://720kb.github.io/highlighter.js/",
       "stars": 376,
       "delta": 0,
@@ -1420,6 +1533,7 @@
     {
       "name": "Smart Table Scroll",
       "full_name": "cmpolis/smart-table-scroll",
+      "slug": "smart-table-scroll",
       "description": "Build 1MM row tables with native scroll bars by reusing and yielding nodes.",
       "stars": 537,
       "delta": 0,
@@ -1431,6 +1545,7 @@
     {
       "name": "offline",
       "full_name": "HubSpot/offline",
+      "slug": "offline",
       "description": "Automatically display online/offline indication to your users",
       "stars": 8670,
       "delta": 0,
@@ -1443,6 +1558,7 @@
     {
       "name": "Locally",
       "full_name": "ozantunca/locally",
+      "slug": "locally",
       "description": "localStorage manager that supports expirable items with timeout values and saves space by compressing them using LZW algorithm.",
       "stars": 377,
       "delta": 0,
@@ -1454,6 +1570,7 @@
     {
       "name": "contra",
       "full_name": "bevacqua/contra",
+      "slug": "contra",
       "description": "Asynchronous flow control with a functional taste to it",
       "stars": 764,
       "delta": 0,
@@ -1466,6 +1583,7 @@
     {
       "name": "Kraken",
       "full_name": "krakenjs/kraken-js",
+      "slug": "kraken",
       "description": "An express-based Node.js web application bootstrapping module.",
       "stars": 4929,
       "delta": 0,
@@ -1478,6 +1596,7 @@
     {
       "name": "when.js",
       "full_name": "cujojs/when",
+      "slug": "whenjs",
       "description": "A solid, fast Promises/A+ and when() implementation, plus other async goodies.",
       "stars": 3445,
       "delta": 0,
@@ -1489,6 +1608,7 @@
     {
       "name": "jump.js",
       "full_name": "callmecavs/jump.js",
+      "slug": "jumpjs",
       "description": "A modern smooth scrolling library.",
       "stars": 3472,
       "delta": 0,
@@ -1501,6 +1621,7 @@
     {
       "name": "microm",
       "full_name": "zzarcon/microm",
+      "slug": "microm",
       "description": "Beautiful library to convert browser microphone to mp3 in Javascript",
       "stars": 880,
       "delta": 0,
@@ -1513,6 +1634,7 @@
     {
       "name": "Mockery",
       "full_name": "mfncooper/mockery",
+      "slug": "mockery",
       "description": "Simplifying the use of mocks with Node.js",
       "stars": 1109,
       "delta": 0,
@@ -1524,6 +1646,7 @@
     {
       "name": "upndown",
       "full_name": "netgusto/upndown",
+      "slug": "upndown",
       "description": "HTML to Markdown javascript converter",
       "stars": 278,
       "delta": 0,
@@ -1536,6 +1659,7 @@
     {
       "name": "Colorify",
       "full_name": "LukyVj/Colorify.js",
+      "slug": "colorify",
       "description": "The simple, customizable, tiny javascript color extractor",
       "stars": 813,
       "delta": 0,
@@ -1548,6 +1672,7 @@
     {
       "name": "Rucksack",
       "full_name": "madeleineostoja/rucksack",
+      "slug": "rucksack",
       "description": "A little bag of CSS superpowers, built on PostCSS",
       "stars": 1860,
       "delta": 0,
@@ -1560,6 +1685,7 @@
     {
       "name": "burger",
       "full_name": "mblode/burger",
+      "slug": "burger",
       "description": "Burger - The minimal hamburger menu with fullscreen navigation.",
       "stars": 835,
       "delta": 0,
@@ -1571,6 +1697,7 @@
     {
       "name": "Nodal",
       "full_name": "keithwhor/nodal",
+      "slug": "nodal",
       "description": "API Services Made Easy With Node.js",
       "stars": 4551,
       "delta": 0,
@@ -1584,6 +1711,7 @@
     {
       "name": "coworkers",
       "full_name": "tjmehta/coworkers",
+      "slug": "coworkers",
       "description": "A RabbitMQ Microservice Framework in Node.js",
       "stars": 611,
       "delta": 0,
@@ -1595,6 +1723,7 @@
     {
       "name": "BlueOak",
       "full_name": "BlueOakJS/blueoak-server",
+      "slug": "blueoak",
       "description": "express.js-based, swagger-matic, server runtime",
       "stars": 141,
       "delta": 0,
@@ -1606,6 +1735,7 @@
     {
       "name": "Socrates",
       "full_name": "matthewmueller/socrates",
+      "slug": "socrates",
       "description": "Small (8kb), batteries-included redux store to reduce boilerplate and promote good habits.",
       "stars": 578,
       "delta": 0,
@@ -1617,6 +1747,7 @@
     {
       "name": "redux-actions",
       "full_name": "redux-utilities/redux-actions",
+      "slug": "redux-actions",
       "description": "Flux Standard Action utilities for Redux.",
       "stars": 6579,
       "delta": 0,
@@ -1629,6 +1760,7 @@
     {
       "name": "is.js",
       "full_name": "git-pwn/is.js",
+      "slug": "isjs",
       "description": "Minimalistic predicate library.",
       "stars": 988,
       "delta": 0,
@@ -1640,6 +1772,7 @@
     {
       "name": "Monkberry",
       "full_name": "antonmedv/monkberry",
+      "slug": "monkberry",
       "description": "Monkberry is a JavaScript library for building web user interfaces",
       "stars": 1504,
       "delta": 0,
@@ -1652,6 +1785,7 @@
     {
       "name": "Dyo",
       "full_name": "dyo/dyo",
+      "slug": "dyo",
       "description": "Dyo is a JavaScript library for building user interfaces.",
       "stars": 947,
       "delta": 0,
@@ -1664,6 +1798,7 @@
     {
       "name": "HumanInput",
       "full_name": "liftoff/HumanInput",
+      "slug": "humaninput",
       "description": "A JavaScript library for handling keyboard shortcuts and other human-generated events",
       "stars": 580,
       "delta": 0,
@@ -1675,6 +1810,7 @@
     {
       "name": "redux-logic",
       "full_name": "jeffbski/redux-logic",
+      "slug": "redux-logic",
       "description": "Redux middleware for organizing all your business logic. Intercept actions and perform async processing.",
       "stars": 1805,
       "delta": 0,
@@ -1686,6 +1822,7 @@
     {
       "name": "StdLib",
       "full_name": "acode/cli",
+      "slug": "stdlib",
       "description": "Autocode CLI and standard library tooling",
       "stars": 3789,
       "delta": 0,
@@ -1698,6 +1835,7 @@
     {
       "name": "lory",
       "full_name": "loryjs/lory",
+      "slug": "lory",
       "description": "Touch enabled minimalistic slider written in vanilla JavaScript.",
       "stars": 2284,
       "delta": 0,
@@ -1710,6 +1848,7 @@
     {
       "name": "Lasso.js",
       "full_name": "lasso-js/lasso",
+      "slug": "lassojs",
       "description": "Advanced JavaScript module bundler, asset pipeline and optimizer",
       "stars": 570,
       "delta": 0,
@@ -1721,6 +1860,7 @@
     {
       "name": "Jed",
       "full_name": "messageformat/Jed",
+      "slug": "jed",
       "description": "Gettext Style i18n for Modern JavaScript Apps",
       "stars": 879,
       "delta": 0,
@@ -1732,6 +1872,7 @@
     {
       "name": "redux-ship",
       "full_name": "clarus/redux-ship",
+      "slug": "redux-ship",
       "description": "Side effects with snapshots for Redux.",
       "stars": 615,
       "delta": 0,
@@ -1744,6 +1885,7 @@
     {
       "name": "donejs",
       "full_name": "donejs/donejs",
+      "slug": "donejs",
       "description": "Your app. Done.",
       "stars": 1357,
       "delta": 0,
@@ -1756,6 +1898,7 @@
     {
       "name": "Inspire Tree",
       "full_name": "helion3/inspire-tree",
+      "slug": "inspire-tree",
       "description": "Inspired Javascript Tree",
       "stars": 420,
       "delta": 0,
@@ -1768,6 +1911,7 @@
     {
       "name": "PlasmaJS",
       "full_name": "phenax/plasmajs",
+      "slug": "plasmajs",
       "description": "An isomorphic nodeJS framework based on react",
       "stars": 135,
       "delta": 0,
@@ -1779,6 +1923,7 @@
     {
       "name": "Clarity Design System",
       "full_name": "vmware/clarity",
+      "slug": "clarity-design-system",
       "description": "Clarity is a scalable, accessible, customizable, open source design system built with web components. Works with any JavaScript framework, built for enterprises, and designed to  be inclusive.",
       "stars": 6464,
       "delta": 0,
@@ -1791,6 +1936,7 @@
     {
       "name": "lagom",
       "full_name": "reimertz/lagom",
+      "slug": "lagom",
       "description": "simplistic presentation generator",
       "stars": 203,
       "delta": 0,
@@ -1803,6 +1949,7 @@
     {
       "name": "Diffy.js",
       "full_name": "maniart/diffyjs",
+      "slug": "diffyjs",
       "description": "A dependency-free motion detection library for the browser",
       "stars": 261,
       "delta": 0,
@@ -1814,6 +1961,7 @@
     {
       "name": "Freezer",
       "full_name": "arqex/freezer",
+      "slug": "freezer",
       "description": "A tree data structure that emits events on updates, even if the modification is triggered by one of the leaves, making it easier to think in a reactive way.",
       "stars": 1270,
       "delta": 0,
@@ -1825,6 +1973,7 @@
     {
       "name": "redux-inputs",
       "full_name": "zillow/redux-inputs",
+      "slug": "redux-inputs",
       "description": "redux-inputs is a Javascript library that works with redux to validate and store values from inputs and forms.",
       "stars": 101,
       "delta": 0,
@@ -1837,6 +1986,7 @@
     {
       "name": "FrontPress",
       "full_name": "frontpressorg/frontpress",
+      "slug": "frontpress",
       "description": "A full front-end AngularJS template for WordPress Rest API.",
       "stars": 109,
       "delta": 0,
@@ -1848,6 +1998,7 @@
     {
       "name": "Tectonic",
       "full_name": "tonyhb/tectonic",
+      "slug": "tectonic",
       "description": "A declarative REST data loader for React and Redux. Docs @",
       "stars": 463,
       "delta": 0,
@@ -1860,6 +2011,7 @@
     {
       "name": "Hydra",
       "full_name": "pnxtech/hydra",
+      "slug": "hydra",
       "description": "A light-weight library for building distributed applications such as microservices",
       "stars": 632,
       "delta": 0,
@@ -1872,6 +2024,7 @@
     {
       "name": "ReactiveMaps",
       "full_name": "appbaseio/reactivemaps",
+      "slug": "reactivemaps",
       "description": "A data aware UI components library for building realtime maps",
       "stars": 937,
       "delta": 0,
@@ -1884,6 +2037,7 @@
     {
       "name": "BigPicture.js",
       "full_name": "henrygd/bigpicture",
+      "slug": "bigpicturejs",
       "description": "Lightweight JavaScript image / video viewer. Supports Youtube, Vimeo, etc.",
       "stars": 789,
       "delta": 0,
@@ -1896,6 +2050,7 @@
     {
       "name": "Rapscallion",
       "full_name": "FormidableLabs/rapscallion",
+      "slug": "rapscallion",
       "description": "Asynchronous React VirtualDOM renderer for SSR.",
       "stars": 1402,
       "delta": 0,
@@ -1907,6 +2062,7 @@
     {
       "name": "FPO",
       "full_name": "getify/FPO",
+      "slug": "fpo",
       "description": "FP library for JavaScript. Supports named-argument style methods.",
       "stars": 446,
       "delta": 0,
@@ -1918,6 +2074,7 @@
     {
       "name": "react-perimeter",
       "full_name": "aweary/react-perimeter",
+      "slug": "react-perimeter",
       "description": "Create an invisible perimeter around an element and respond when its breached.",
       "stars": 1061,
       "delta": 0,
@@ -1929,6 +2086,7 @@
     {
       "name": "Awaiting",
       "full_name": "hunterloftis/awaiting",
+      "slug": "awaiting",
       "description": "The async/await utility for browsers and Node.js.",
       "stars": 679,
       "delta": 0,
@@ -1941,6 +2099,7 @@
     {
       "name": "Pandemonium",
       "full_name": "Yomguithereal/pandemonium",
+      "slug": "pandemonium",
       "description": "Typical random-related functions for JavaScript and TypeScript.",
       "stars": 148,
       "delta": 0,
@@ -1952,6 +2111,7 @@
     {
       "name": "SmartPhoto",
       "full_name": "appleple/SmartPhoto",
+      "slug": "smartphoto",
       "description": "The most easy to use responsive image viewer especially for mobile devices",
       "stars": 881,
       "delta": 0,
@@ -1964,6 +2124,7 @@
     {
       "name": "angular-ssr",
       "full_name": "rangle/angular-ssr",
+      "slug": "angular-ssr",
       "description": "Angular 4+ server-side rendering solution compatible with @angular/material, jQuery, and other libraries that touch the DOM (as well as providing a rich feature set!)",
       "stars": 280,
       "delta": 0,
@@ -1975,6 +2136,7 @@
     {
       "name": "Britecharts",
       "full_name": "eventbrite/britecharts",
+      "slug": "britecharts",
       "description": "Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.",
       "stars": 1,
       "delta": 0,
@@ -1986,6 +2148,7 @@
     {
       "name": "taxi-rank",
       "full_name": "ForbesLindesay/taxi-rank",
+      "slug": "taxi-rank",
       "description": "A JSDom based Selenium Webdriver API",
       "stars": 350,
       "delta": 0,
@@ -1997,6 +2160,7 @@
     {
       "name": "createrest",
       "full_name": "atomixinteractions/createrest",
+      "slug": "createrest",
       "description": "REST routes constructor for express and koa",
       "stars": 28,
       "delta": 0,
@@ -2008,6 +2172,7 @@
     {
       "name": "Razzle Material UI Styled Example",
       "full_name": "kireerik/razzle-material-ui-styled-example",
+      "slug": "razzle-material-ui-styled-example",
       "description": "Razzle Material-UI example with Styled Components using Express with compression",
       "stars": 116,
       "delta": 0,
@@ -2020,6 +2185,7 @@
     {
       "name": "Spected",
       "full_name": "25th-floor/spected",
+      "slug": "spected",
       "description": "Validation library",
       "stars": 707,
       "delta": 0,
@@ -2031,6 +2197,7 @@
     {
       "name": "Redux-First Router",
       "full_name": "faceyspacey/redux-first-router",
+      "slug": "redux-first-router",
       "description": "seamless redux-first routing -- just dispatch actions",
       "stars": 1559,
       "delta": 0,
@@ -2042,6 +2209,7 @@
     {
       "name": "Study",
       "full_name": "dollarshaveclub/study",
+      "slug": "study",
       "description": "A simple, progressive, client/server AB testing library",
       "stars": 311,
       "delta": 0,
@@ -2053,6 +2221,7 @@
     {
       "name": "Titanic",
       "full_name": "icons8/titanic",
+      "slug": "titanic",
       "description": "A set of animated icons + code to insert them into the webpages",
       "stars": 2449,
       "delta": 0,
@@ -2065,6 +2234,7 @@
     {
       "name": "react-controlled-form",
       "full_name": "robinweser/react-controlled-form",
+      "slug": "react-controlled-form",
       "description": "Flexible, Modular & Controlled Forms for React and Redux",
       "stars": 118,
       "delta": 0,
@@ -2077,6 +2247,7 @@
     {
       "name": "Eureca",
       "full_name": "Ezelia/eureca.io",
+      "slug": "eureca",
       "description": "Bidirectional RPC that can use WebSocket, WebRTC or XHR fallback as transport layers",
       "stars": 344,
       "delta": 0,
@@ -2089,6 +2260,7 @@
     {
       "name": "Kea",
       "full_name": "keajs/kea",
+      "slug": "kea",
       "description": "Production Ready State Management for React",
       "stars": 1856,
       "delta": 0,
@@ -2101,6 +2273,7 @@
     {
       "name": "bem.js",
       "full_name": "maykinmedia/bem.js",
+      "slug": "bemjs",
       "description": "DOM selection and manipulation using BEM (Block, Element, Modifier).",
       "stars": 9,
       "delta": 0,
@@ -2112,6 +2285,7 @@
     {
       "name": "Flowtime.js",
       "full_name": "marcolago/flowtime.js",
+      "slug": "flowtimejs",
       "description": "Flowtime.js HTML5/CSS3/JS Websites and Presentation Framework",
       "stars": 1327,
       "delta": 0,
@@ -2124,6 +2298,7 @@
     {
       "name": "Bubb",
       "full_name": "frdnrdb/bubb",
+      "slug": "bubb",
       "description": "Euphemism for a JS tooltip",
       "stars": 97,
       "delta": 0,
@@ -2136,6 +2311,7 @@
     {
       "name": "React Markings",
       "full_name": "Thinkmill/react-markings",
+      "slug": "react-markings",
       "description": "**Markdown** in <Components/>, <Components/> in **Markdown**",
       "stars": 888,
       "delta": 0,
@@ -2148,6 +2324,7 @@
     {
       "name": "pdf-bot",
       "full_name": "esbenp/pdf-bot",
+      "slug": "pdf-bot",
       "description": "A Node queue API for generating PDFs using headless Chrome. Comes with a CLI, S3 storage and webhooks for notifying subscribers about generated PDFs",
       "stars": 2561,
       "delta": 0,
@@ -2159,6 +2336,7 @@
     {
       "name": "React-hint",
       "full_name": "slmgc/react-hint",
+      "slug": "react-hint",
       "description": "Tooltip component for React, Preact, Inferno",
       "stars": 336,
       "delta": 0,
@@ -2171,6 +2349,7 @@
     {
       "name": "Potion",
       "full_name": "finnfiddle/potion",
+      "slug": "potion",
       "description": "React components for declaratively composing animated, interactive visualizations.",
       "stars": 183,
       "delta": 0,
@@ -2183,6 +2362,7 @@
     {
       "name": "gluebert.js",
       "full_name": "wildhaber/gluebert",
+      "slug": null,
       "description": "gluebert.js is a tiny helper lazy loading DOM Elements, StyleSheets and JavaScript files using dynamic import and code splitting",
       "stars": 192,
       "delta": 0,
@@ -2195,6 +2375,7 @@
     {
       "name": "Liike",
       "full_name": "LiikeJS/Liike",
+      "slug": "liike",
       "description": "Tiny JS tweening library.",
       "stars": 181,
       "delta": 0,
@@ -2207,6 +2388,7 @@
     {
       "name": "Bosket",
       "full_name": "elbywan/bosket",
+      "slug": "bosket",
       "description": "Collection of tree view components for front-end frameworks.",
       "stars": 451,
       "delta": 0,
@@ -2219,6 +2401,7 @@
     {
       "name": "Strudel",
       "full_name": "strudeljs/strudel",
+      "slug": "strudel",
       "description": "A front-end framework for the back-end powered web",
       "stars": 180,
       "delta": 0,
@@ -2231,6 +2414,7 @@
     {
       "name": "Vue A11Y Calendar",
       "full_name": "IBM/vue-a11y-calendar",
+      "slug": "vue-a11y-calendar",
       "description": "Accessible, internationalized Vue calendar",
       "stars": 252,
       "delta": 0,
@@ -2243,6 +2427,7 @@
     {
       "name": "Whitelister",
       "full_name": "peakmoney/whitelister",
+      "slug": "whitelister",
       "description": "Simple, basic filtering and validation tool for Node.js.",
       "stars": 47,
       "delta": 0,
@@ -2255,6 +2440,7 @@
     {
       "name": "Simpla",
       "full_name": "simplajs/simpla",
+      "slug": "simpla",
       "description": "Open, modular, and serverless content management for a modern web",
       "stars": 530,
       "delta": 0,
@@ -2267,6 +2453,7 @@
     {
       "name": "Burnside",
       "full_name": "Nike-Inc/burnside",
+      "slug": "burnside",
       "description": "Fast and Reliable E2E Web Testing with only Javascript",
       "stars": 386,
       "delta": 0,
@@ -2278,6 +2465,7 @@
     {
       "name": "chimee",
       "full_name": "Chimeejs/chimee",
+      "slug": "chimee",
       "description": "a video player framework aims to bring wonderful experience on browser",
       "stars": 2370,
       "delta": 0,
@@ -2290,6 +2478,7 @@
     {
       "name": "reactchart",
       "full_name": "fundkis/reactchart",
+      "slug": "reactchart",
       "description": "Fund KIS React based chart library",
       "stars": 5,
       "delta": 0,
@@ -2302,6 +2491,7 @@
     {
       "name": "Stent",
       "full_name": "krasimir/stent",
+      "slug": "stent",
       "description": "Stent is combining the ideas of redux with the concept of state machines",
       "stars": 688,
       "delta": 0,
@@ -2313,6 +2503,7 @@
     {
       "name": "React Chartkick",
       "full_name": "ankane/react-chartkick",
+      "slug": "react-chartkick",
       "description": "Create beautiful JavaScript charts with one line of React",
       "stars": 1185,
       "delta": 0,
@@ -2325,6 +2516,7 @@
     {
       "name": "QUnit",
       "full_name": "qunitjs/qunit",
+      "slug": "qunit",
       "description": "An easy-to-use JavaScript unit testing framework.",
       "stars": 3970,
       "delta": 0,
@@ -2337,6 +2529,7 @@
     {
       "name": "react-translated",
       "full_name": "amsul/react-translated",
+      "slug": "react-translated",
       "description": "A dead simple way to add complex translations (i18n) in a React (DOM/Native) project",
       "stars": 180,
       "delta": 0,
@@ -2348,6 +2541,7 @@
     {
       "name": "LiteEditor",
       "full_name": "appleple/lite-editor",
+      "slug": "liteeditor",
       "description": "A Modern WYSIWYG Editor especially for inline elements",
       "stars": 170,
       "delta": 0,
@@ -2360,6 +2554,7 @@
     {
       "name": "Reshader",
       "full_name": "chiefGui/reshader",
+      "slug": "reshader",
       "description": "A micro, highly-customisable JavaScript library to get shades of colors",
       "stars": 209,
       "delta": 0,
@@ -2372,6 +2567,7 @@
     {
       "name": "x0",
       "full_name": "c8r/x0",
+      "slug": "x0",
       "description": "Document & develop React components without breaking a sweat",
       "stars": 1706,
       "delta": 0,
@@ -2384,6 +2580,7 @@
     {
       "name": "RockJS",
       "full_name": "w3core/RockJS",
+      "slug": "rockjs",
       "description": "The trusty framework for old school guys!",
       "stars": 9,
       "delta": 0,
@@ -2396,6 +2593,7 @@
     {
       "name": "GraphQL-IO",
       "full_name": "rse/graphql-io",
+      "slug": "graphql-io",
       "description": "GraphQL Network Communication Framework",
       "stars": 41,
       "delta": 0,
@@ -2408,6 +2606,7 @@
     {
       "name": "Jarvis",
       "full_name": "zouhir/jarvis",
+      "slug": "jarvis",
       "description": "A very intelligent browser based Webpack dashboard",
       "stars": 5445,
       "delta": 0,
@@ -2419,6 +2618,7 @@
     {
       "name": "env-hoc",
       "full_name": "supukarmin/env-hoc",
+      "slug": "env-hoc",
       "description": "Provides a universal HOC (higher-order component) for React and populates the component props with an env property, which gives access to cookies, language(s), userAgent and other variables on server-side and client-side in a standardized way.",
       "stars": 9,
       "delta": 0,
